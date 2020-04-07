@@ -1,0 +1,4 @@
+[submodule "dom-crawler"]
+	path = dom-crawler
+	url = https://github.com/symfony/dom-crawler.git
+	branch = 3.1
